@@ -1,0 +1,1 @@
+# thsi is a smaple repository tp learn git actions
